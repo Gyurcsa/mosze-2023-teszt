@@ -22,6 +22,6 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
-    std::count << "Minden Prima" << std::endl;
+    std::cout << "Minden Prima" << std::endl;
     return 0;
 }
